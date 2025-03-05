@@ -1,0 +1,196 @@
+  
+ 
+ .image{
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+ 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+    
+  }
+  
+  li {
+    float:left;
+  }
+ .nav {
+  float:right;
+}
+  
+  li a {
+    display: inline-block;
+    color:rgb(196, 19, 78);
+    text-align: center;
+    padding: 30px 20px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  li a:hover {
+    background-color: #e4f82d;
+    border-radius: 15px 0px 15px 0px;
+  }
+ 
+/*------home.html-------*/
+  
+  .fitness{
+   float: right;
+   height: 850px;
+   width: 600px;
+
+    
+  }
+  h6{
+    float: left;
+    margin-top: 0px;
+    font-size: 100px;
+    text-align: center;
+    padding : 100px 200px;
+    font-family: "Caveat", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: rgb(71, 14, 104);
+  }
+  
+
+/*------about.html------*/
+ .about1{
+  float: left;
+  border-radius: 100px 0px 100px 0px;
+  
+
+ }
+ h1{
+  font-size: large;
+  color: darkolivegreen;
+ }
+  
+  
+/*-----classes.html-----*/
+ .classes{
+  margin: 20px;
+  padding: 50px;
+} 
+h1{
+  text-align: center;
+  color: blueviolet;
+  
+  font-size: 50px;
+
+} 
+button{
+  background-color: rgb(11, 245, 186);
+}
+hr{
+  border: 5px solid rgb(3, 3, 3);
+   
+  
+}
+.class11{
+  border: 2px solid  rgb(3, 3, 3);;
+}
+.ajith{
+  height: 5px;
+  background-color: rgb(3, 3, 3);
+}
+/*-------programlist.html-------*/
+ .program1 h1{
+  text-align: center;
+  font-size: 80px;
+} 
+.program1 h2{
+  text-align: center;
+  font-size: 30px;
+}
+.program3{
+  width: 200px;
+  border: 15px solid   rgb(146, 7, 72);
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  font-size: 40px;
+  background-color:   rgb(146, 7, 72);
+  color: azure;
+}
+.program4{
+  background-color:  rgb(146, 7, 72);
+  width: 200px;
+  border: 15px solid   rgb(146, 7, 72);
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  font-size: 40px;
+  color: azure;
+}
+.program5{
+  background-color:    rgb(146, 7, 72);
+  width: 200px;
+  border: 15px solid   rgb(146, 7, 72);
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  font-size: 40px;
+  color: azure;
+}
+.programs{
+  display: flex;
+  padding-bottom: 20px;
+  margin-left: 130px;
+}
+ .image{
+  background-color: rgb(238, 204, 54);
+ }
+ /*-------plans.html--------*/
+ .plans1{
+  text-align: center;
+  color: azure;
+  font-size: 20px;
+  background-color:  rgb(89, 32, 194);
+  padding: 50px;
+  margin: 20px;
+  width: 300px;
+  height: 300px;
+  border-radius: 35px;
+   
+   
+  
+}
+.plans2{
+  text-align: center;
+  color: azure;
+  font-size: 20px;
+  background-color:  rgb(89, 32, 194);
+  padding: 50px;
+  margin: 20px;
+  width: 300px;
+  height: 300px;
+  border-radius: 35px; 
+   
+  
+}
+.plans3{
+  text-align: center;
+  border-radius: 35px;
+  font-size: 20px;
+  background-color:  rgb(89, 32, 194);
+  padding: 50px;
+  margin: 20px;
+  width: 300px;
+  height: 300px;
+  border-radius: 35px; 
+}
+.programs{
+  display: flex;
+  padding-bottom: 40px;
+  margin-left: 130px;
+   
+}
+
+ 
+
+ 
